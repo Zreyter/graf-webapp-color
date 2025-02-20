@@ -16,3 +16,4 @@ La página tiene un diseño sencillo y moderno, con controles fáciles de usar y
 - Experimenta con colores y mira cómo se ven.
 - Obtén el código del color para usarlo en otros proyectos, como diseños o ediciones.
 
+
